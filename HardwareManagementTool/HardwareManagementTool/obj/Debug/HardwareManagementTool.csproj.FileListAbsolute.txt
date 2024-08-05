@@ -1,0 +1,14 @@
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\bin\Debug\HardwareManagementTool.exe.config
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\bin\Debug\HardwareManagementTool.exe
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\bin\Debug\HardwareManagementTool.pdb
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.csproj.AssemblyReference.cache
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.Login.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.Properties.Resources.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.csproj.GenerateResource.cache
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.csproj.CoreCompileInputs.cache
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.exe
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.pdb
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.Billing.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.Categories.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.Items.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Debug\HardwareManagementTool.Dashboard.resources
