@@ -1,0 +1,13 @@
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\bin\Release\HardwareManagementTool.exe.config
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\bin\Release\HardwareManagementTool.exe
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\bin\Release\HardwareManagementTool.pdb
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.csproj.AssemblyReference.cache
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.Billing.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.Categories.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.Items.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.Login.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.Properties.Resources.resources
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.csproj.GenerateResource.cache
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.csproj.CoreCompileInputs.cache
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.exe
+D:\UoK\3rd YR\BECS 31242 - Visual Programming\practical guides\HardwareManagementTool\HardwareManagementTool\obj\Release\HardwareManagementTool.pdb

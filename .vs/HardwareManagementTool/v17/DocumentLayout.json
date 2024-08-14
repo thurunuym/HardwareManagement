@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|d:\\uok\\3rd yr\\becs 31242 - visual programming\\practical guides\\hardwaremanagementtool\\hardwaremanagementtool\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\billing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\categories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\categories.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\items.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\items.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\categories.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\categories.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\hardwaremanagementtool\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D2D5F19-F7F0-4E00-B46F-40FDF50977FA}|HardwareManagementTool\\HardwareManagementTool.csproj|solutionrelative:hardwaremanagementtool\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Items.cs [Design]",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Items.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Items.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Items.cs [Design]",
+              "RelativeToolTip": "HardwareManagementTool\\Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:14:20.236Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categories.cs [Design]",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Categories.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.cs [Design]",
+              "RelativeToolTip": "HardwareManagementTool\\Categories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:25:43.899Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Billing.cs [Design]",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Billing.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Billing.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Billing.cs [Design]",
+              "RelativeToolTip": "HardwareManagementTool\\Billing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T13:49:28.591Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Login.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Login.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Login.cs [Design]",
+              "RelativeToolTip": "HardwareManagementTool\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T11:40:23.352Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Billing.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Billing.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Billing.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Billing.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAiwCoBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T18:29:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Billing.Designer.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Billing.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Billing.Designer.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Billing.Designer.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Billing.Designer.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAAAEsBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:24:43.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Categories.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Categories.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAALgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:05:29.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Login.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Login.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Login.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Login.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:40:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categories.Designer.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Categories.Designer.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.Designer.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Categories.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:03:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Items.Designer.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Items.Designer.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Items.Designer.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Items.Designer.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Items.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T19:03:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categories.resx",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.resx",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Categories.resx",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Categories.resx",
+              "RelativeToolTip": "HardwareManagementTool\\Categories.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-10T19:03:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Dashboard.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Dashboard.cs",
+              "RelativeToolTip": "HardwareManagementTool\\Dashboard.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:38:41.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Dashboard.cs",
+              "RelativeDocumentMoniker": "HardwareManagementTool\\Dashboard.cs",
+              "ToolTip": "D:\\UoK\\3rd YR\\BECS 31242 - Visual Programming\\practical guides\\HardwareManagementTool\\HardwareManagementTool\\Dashboard.cs [Design]",
+              "RelativeToolTip": "HardwareManagementTool\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:59:52.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
